@@ -14,5 +14,7 @@ console.log(`server is running at http://Localhost:${port}`);
 
 let Especialidad = [
     {id: 1, titulo: `Medico general`},
-    
+    {id: 2, titulo: `Medico optometra`},
+    {id: 3, titulo: `Medico otorriinolaringolo`},
+];
 
