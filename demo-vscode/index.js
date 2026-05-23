@@ -1,8 +1,9 @@
-const express = require("express");
+const express from 'express';
 const app = express();  
-const newLocal = 3000;      
+const port = 3000;
 
-app.get
+
+
 
 
 
