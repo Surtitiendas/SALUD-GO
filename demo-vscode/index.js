@@ -10,5 +10,9 @@ app.listen (port, () => {
 console.log(`server is running at http://Localhost:${port}`);
 });
 
+// creacion del crud
 
+let Especialidad = [
+    {id: 1, titulo: `Medico general`},
+    
 
